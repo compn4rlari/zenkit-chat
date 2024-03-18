@@ -1,0 +1,27 @@
+{
+  "name": "zenkit-chat",
+  "version": "1.0.0",
+  "description": "Zenkit is a Node.js module providing a collection of utility functions inspired by Zen philosophy for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/compn4rlari/zenkit-chat"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "insightful-utils-use": "1.0.0",
+    "need-uuid-utils": "1.0.0",
+    "quantum-talk-helpers": "1.0.0",
+    "rely-luminary-insights": "1.0.0",
+    "celestial-harmony-tie": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compn4rlari/zenkit-chat/issues"
+  },
+  "homepage": "https://github.com/compn4rlari/zenkit-chat#readme"
+}
